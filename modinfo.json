@@ -1,0 +1,26 @@
+{
+    "context": "client",
+    "identifier": "com.pa.ferretmaster.watermelonEffects",
+    "display_name": "Watermelon Client Overhaul",
+    "description": "Watermelonfies the game, this includes commander effects and ui changes. WARNING: some of these are not positive, this is a for fun mod",
+    "author": "Ferretmaster",
+    "version": "1.0",
+    "build": "120799",
+    "date": "2024-07-04",
+    "signature": "not yet implemented",
+    "forum": "",
+    "icon": "",
+    "priority": 100,
+    "category": [
+        "titans", "in-game","client","ui"
+    ],
+    "scenes" : {
+		"start" : ["coui://ui/mods/gallery/main.js","coui://ui/mods/showcom/start.js"],
+        "icon_atlas": [
+      "coui://ui/mods/melon/icon_atlas.js"
+    ],
+    "matchmaking": [
+        "coui://ui/mods/melon/ranked_audio.js"
+      ]
+	}
+}
