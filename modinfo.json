@@ -9,7 +9,7 @@
     "date": "2024-07-04",
     "signature": "not yet implemented",
     "forum": "",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/Ferret-Master/Watermelon-Overhaul/main/watermelon_icon.PNG",
     "priority": 100,
     "category": [
         "titans", "in-game","client","ui"
