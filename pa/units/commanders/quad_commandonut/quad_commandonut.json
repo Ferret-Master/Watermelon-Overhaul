@@ -81,6 +81,11 @@
     ],
     "fx_offsets": [
         {
+            "type": "build",
+            "filename": "/pa/effects/specs/fab_spray.pfx",
+            "bone": "socket_leftMuzzle"
+          },
+        {
             "type": "idle",
             "filename": "/pa/units/commanders/quad_commandonut/watermelon_head.pfx",
             "bone": "bone_spine",
